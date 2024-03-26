@@ -10,7 +10,7 @@ const Home: React.FC = () => {
   return (
     <div>
       <Head>
-        <title>Your Name - Portfolio</title>
+        <title>Sudhin Karki- Portfolio</title>
         <meta name="description" content="Your personal portfolio website." />
         <link rel="icon" href="/favicon.ico" />
       </Head>
