@@ -1,7 +1,13 @@
 import { defaultConfig } from "next/dist/server/config-shared";
 import React from "react";
 import Image, { StaticImageData } from "next/image";
-import {anomaly,email,heart,movie,potato,timeseries} from "../images/im/index"
+import anomaly from  "/public/images/anomaly.png";
+import heart from  "/public/images/email.jpeg";
+import email from  "/public/images/heart.jpeg";
+import movie from  "/public/images/movie.jpeg";
+import potato from  "/public/images/potato.jpeg";
+import timeseries from  "/public/images/timeseries.jpeg";
+
 
 const projectsData = [
     {

@@ -1,7 +1,7 @@
 import Image from 'next/image';
 import React from 'react';
 import {motion} from "framer-motion";
-import photo from "../images/portfolio.png";
+import photo from "/public/images/portfolio.png";
 
 const Portfolio: React.FC = () => {
     return(
