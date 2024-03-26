@@ -3,6 +3,7 @@ import React from 'react';
 import {motion} from "framer-motion";
 import photo from "/public/images/portfolio.png";
 
+
 const Portfolio: React.FC = () => {
     return(
         <>
